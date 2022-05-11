@@ -1,1 +1,1 @@
-git forking simple example .
+git forking simple example and git fetching.
