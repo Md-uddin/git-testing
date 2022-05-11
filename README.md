@@ -1,3 +1,3 @@
 git forking,
 git fetching
-with local envlovement
+with local involvement
