@@ -1,1 +1,3 @@
-git forking simple example and git fetching.
+git forking,
+git fetching
+with local envlovement
